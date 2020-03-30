@@ -1,5 +1,7 @@
 package by.iba.Servlet.List;
 
+import by.iba.Servlet.Model.Person;
+
 import java.util.ArrayList;
 import java.util.List;
 

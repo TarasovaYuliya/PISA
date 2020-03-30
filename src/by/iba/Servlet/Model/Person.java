@@ -1,4 +1,4 @@
-package by.iba.Servlet.List;
+package by.iba.Servlet.Model;
 
 public class Person {
     private String name;
